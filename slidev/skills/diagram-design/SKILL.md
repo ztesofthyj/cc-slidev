@@ -1,3 +1,8 @@
+---
+name: Diagram Design
+description: Design platform-appropriate diagrams for Mermaid, PlantUML, and Excalidraw. Use when creating multi-platform diagrams, leveraging each tool's unique strengths.
+---
+
 # Diagram Design Philosophy
 
 ## Core Principle: Semantic Redesign, Not Mechanical Conversion
